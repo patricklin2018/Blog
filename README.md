@@ -20,7 +20,7 @@
 | Name| 备注 | link |
 | --- | --- | --- |
 | String、StringBuilder、StringBuffer | 区别、浅析 | [link](java/String、StringBuilder、StringBuffer) |
-| Java 垃圾收集机制 | 对象判定、收集算法、收集器 | [link](java/Java 垃圾收集机制) |
+| Java 垃圾收集机制 | 对象判定、收集算法、收集器 | [link](java/Java垃圾收集机制) |
 | 虚拟机类加载 | 类加载过程、加载器 | [link](java/虚拟机类加载) |
 
 ## 三、计算机理论基础
@@ -29,4 +29,4 @@
 | ---| ---| --- |
 | 原码、反码、补码 | 计算、浅析 | [link](cs/原码、反码、补码) |
 | 通过前序、中序、后序相结合、水平遍历序列构建二叉树 | 通过各种遍历顺序序列构建二叉树 | [link](cs/通过前序、中序、后序相结合、水平遍历序列构建二叉树) |
-| http 与 https 的区别、优劣、原理浅析 | 区别、优劣、原理浅析 | [link](cs/http 与 https 的区别、优劣、原理浅析) |
+| http 与 https 的区别、优劣、原理浅析 | 区别、优劣、原理浅析 | [link](cs/http与https的区别、优劣、原理浅析) |

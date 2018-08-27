@@ -7,13 +7,13 @@
 
 | Name  | description | link |
 |---|---|---|
-| Image Style Transfer Using CNN | style transfer | [link](ImageStyleTransferUsingCNN) |
-| Joint End-to-end Learning of Global and Local Image Priors | colorization | [link](JointEnd-to-endLearningofGlobalandLocalImagePriors) |
-| Learning a Deep Convolutional Network for Image Super-Resolution | SRCNN | [link](/LearningaDeepConvolutionalNetworkforImageSuper-Resolution) |
-| Perceptual Losses for Real-Time Style Transfer and Super-Resolution | style transfer and sr : perceptual loss + resnet | [link](/PerceptualLossesforReal-TimeStyleTransferandSuper-Resolution) |
-| Real-Time User-Guided Image Colorization with Learned Deep Priors | colorization | [link](/Real-TimeUser-GuidedImageColorizationwithLearnedDeepPriors) |
-| Visual Attribute Transfer through Deep Image Analogy | style transfer: image analogy | [link](/VisualAttributeTransferthroughDeepImageAnalogy) |
-| Where to Buy It | cloth recognize | [link](/WheretoBuyIt) |
+| Image Style Transfer Using CNN | style transfer | [link](paper/ImageStyleTransferUsingCNN) |
+| Joint End-to-end Learning of Global and Local Image Priors | colorization | [link](paper/JointEnd-to-endLearningofGlobalandLocalImagePriors) |
+| Learning a Deep Convolutional Network for Image Super-Resolution | SRCNN | [link](paper/LearningaDeepConvolutionalNetworkforImageSuper-Resolution) |
+| Perceptual Losses for Real-Time Style Transfer and Super-Resolution | style transfer and sr : perceptual loss + resnet | [link](paper/PerceptualLossesforReal-TimeStyleTransferandSuper-Resolution) |
+| Real-Time User-Guided Image Colorization with Learned Deep Priors | colorization | [link](paper/Real-TimeUser-GuidedImageColorizationwithLearnedDeepPriors) |
+| Visual Attribute Transfer through Deep Image Analogy | style transfer: image analogy | [link](paper/VisualAttributeTransferthroughDeepImageAnalogy) |
+| Where to Buy It | cloth recognize | [link](paper/WheretoBuyIt) |
 
 ## 二、Java
 

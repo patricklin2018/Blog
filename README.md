@@ -21,6 +21,7 @@
 | --- | --- | --- |
 | String、StringBuilder、StringBuffer | 区别、源码浅析 | [link](java/String、StringBuilder、StringBuffer) |
 | ArrayList、LinkedList、Vector区别总结与源码浅析 | 区别、源码浅析 | [link](java/ArrayList、LinkedList、Vector区别总结与源码浅析) |
+| HashMap 的多方位浅析 | 数据结构、hash寻址、resize扩容、put实现、多线程 | [link](java/HashMap的多方位浅析) |
 | Java 垃圾收集机制 | 对象判定、收集算法、收集器 | [link](java/Java垃圾收集机制) |
 | 虚拟机类加载 | 类加载过程、加载器 | [link](java/虚拟机类加载) |
 

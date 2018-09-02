@@ -29,9 +29,9 @@
 
 以下通过三种方式实现，分别为：
 
-* Synchronized、 wait、 notify
-* RetreenLock 
-* BlockingQueue
+* Synchronized、 wait、 notify，[代码链接-java](ProduceConsumer1.java)
+* RetreenLock，[代码链接-java](ProduceConsumer2.java)
+* BlockingQueue，[代码链接-java](ProduceConsumer3.java)
 
 ### 1. Synchronized、wait、notify
 

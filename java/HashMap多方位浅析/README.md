@@ -98,7 +98,7 @@ static final int hash(Object key) {
    2.2 若链头不为空，则遍历该链表，通过验证哈希值 与 `key.equals(k)` 相结合的验证方式寻找 key 值节点，并且，该结合方式也有助于减少验证的计算，因为哈希不相等必定键值不相等，相等才通过 `equals` 函数验证。
 
           2.2.1 若找到该键值，则修改对应值。
-
+    
           2.2.2 否则，在链头插入该值节点。
 
 ```java
@@ -326,7 +326,15 @@ final Node<K,V>[] resize() {
 
 ## 五、 多线程问题
 
-待续
+HashMap 本身不具备线程安全，若在多线程环境中可以用一下三个实现线程安全：
+
+* Hashtable
+* SynchronizedMap
+* ConcurrentHashMap
+
+这里只简单总结一下三者的显著区别，具体以后再诉：
+
+Hashtable 的实现原理与 HashMap 基本一样，不同的是 Hashtable 的许多方法采用 Synchronized 修饰加了锁，因此具备线程安全性。SynchronizedMap 可接受所有 Map，返回 SynchronizedMap 类对象，从名字同样可以看出来，效率与前者接近。ConcurrentHashMap 相比 Hashtable 加入了 Segment 技术，将数据结构分成了若干个  Segment 块，使得锁的粒度更精小，效率更高。当然 JDK1.8 之后 ，ConcurrentHashMap 摈弃了 Segment 的技术，而是采用了 cas 算法。
 
 ## 参考
 

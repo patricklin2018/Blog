@@ -24,6 +24,7 @@
 | HashMap 多方位浅析 | 数据结构、hash寻址、resize扩容、put实现、多线程 | [link](java/HashMap多方位浅析) |
 | Java 垃圾收集机制 | 对象判定、收集算法、收集器 | [link](java/Java垃圾收集机制) |
 | 虚拟机类加载 | 类加载过程、加载器 | [link](java/虚拟机类加载) |
+| Java 内存模型与线程 | 硬件的效率与一致性、Java 内存模型、Java 与线程 | [link](java/Java内存模型与线程) |
 | JAVA 的 final 与 C++ 的 const 的区别？| const 和 final | [link](java/final与const的区别) |
 
 ## 三、计算机理论基础

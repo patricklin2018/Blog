@@ -1,4 +1,4 @@
-# HTTP 协议、及其 8 种请求方法、GET 和 POST 区别、HTTP 和 HTTPS 浅析
+# HTTP协议浅析(8种请求方法、GET和POST区别、幂等性、HTTP和HTTPS)
 
 > 本文为笔者学习整理总结，若有任何不严谨或错误之处，还望不吝指出！
 

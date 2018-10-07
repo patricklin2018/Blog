@@ -47,6 +47,7 @@
 | 高级排序（希尔、归并、快排、堆排） | O(nlogn) 的排序算法 | [link](algorithm/高级排序（希尔、归并、快排、堆排）) |
 | 腾讯大楼抛玻璃球问题 | dp | [link](algorithm/腾讯大楼抛玻璃球问题) |
 | 最长公共子串方法及优化 | dp | [link](algorithm/最长公共子串方法及优化) |
+| 双线程交叉打印两个数组 | sychronized, reentrantlock, semaphore | [link](algorithm/双线程交叉打印两个数组) |
 
 ## 五、 设计模式
 

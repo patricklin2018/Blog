@@ -260,7 +260,7 @@ public void execute(Runnable command) {
 }	
 ```
 
-### 3.3 Worker 结构体
+### 3.3 Worker 工作线程结构体
 
 ```java
 /**
